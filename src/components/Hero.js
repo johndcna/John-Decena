@@ -2,7 +2,7 @@ const Hero = () => {
     return (
         <section id="hero" className="hero section dark-background">
 
-        <img src="assets/img/self-header.jpg" alt="" data-aos="fade-in" />
+        <img src="assets/img/self.jpg" alt="" data-aos="fade-in" />
   
         <div className="container d-flex flex-column align-items-center justify-content-center text-center" data-aos="fade-up" data-aos-delay="100">
           <h2>John Decena</h2>
