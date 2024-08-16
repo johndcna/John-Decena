@@ -1,4 +1,7 @@
+
 const Footer = () => {
+
+
     return (
         <footer id="footer" className="footer accent-background">
 
