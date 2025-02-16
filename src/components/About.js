@@ -17,7 +17,7 @@ const About = () => {
                 <p><strong>Name: </strong> <span>John Alton Comision Decena</span></p>
                 <p><strong>Profile: </strong> <span>Full Stack Developer</span></p>
                 <p><strong>Email: </strong> <span>decenajac@gmail.com</span></p>
-                <p><strong>Phone: </strong> <span>(+63) 945-745-2987</span></p>
+                <p><strong>Phone: </strong> <span>(+64) 27-386-7925</span></p>
               </div>
             </div>
 
