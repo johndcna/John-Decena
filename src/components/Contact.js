@@ -27,7 +27,7 @@ const Contact = () => {
                 <i className="bi bi-telephone flex-shrink-0"></i>
                 <div>
                   <h3>Call Me</h3>
-                  <p>+63 945 745 2987</p>
+                  <p>+64-27-386-7925</p>
                 </div>
               </div>
             </div>
