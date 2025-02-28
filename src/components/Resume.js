@@ -38,7 +38,7 @@ const Resume = () => {
 
             <div className="resume-item">
               <h4>Associate Technical Specialist</h4>
-              <h5>2018-2021</h5>
+              <h5>2016-2018</h5>
               <p><em>Alliance Sofware Inc., Cebu, Philippines</em></p>
               <ul>
                 <li>Responsible for planning, designing, development, testing and deployment and support various web application</li>
