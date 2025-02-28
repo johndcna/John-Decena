@@ -13,7 +13,7 @@ const Resume = () => {
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <h3 className="resume-title">Professional Experience</h3>
             <div className="resume-item">
-              <h4>.Net Developer</h4>
+              <h4>Senior Software Developer</h4>
               <h5>2021 - Present</h5>
               <p><em>GHD Ltd Pty., Cebu, Philippines</em></p>
               <ul>
