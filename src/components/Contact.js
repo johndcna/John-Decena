@@ -17,7 +17,7 @@ const Contact = () => {
                 <i className="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h3>Address</h3>
-                  <p>Flat Bush Auckland, New Zealand</p>
+                  <p>Cebu City, Philippines</p>
                 </div>
               </div>
             </div>
