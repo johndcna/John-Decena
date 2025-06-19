@@ -18,9 +18,9 @@ const Resume = () => {
               <p><em>GHD Ltd Pty., Cebu, Philippines</em></p>
               <ul>
                 <li>Build .NET web application to help the municipal government to support police public services. Using a multitenant approach to allow easy and fast onboarding of new clients</li>
-                <li>Refactor and enhance source code to improve code readability and reduced complexity </li>
+                <li>Refactor and enhance source code to improve code readability and reduce complexity </li>
                 <li>Work on Azure Data Factory to provide multiple client data migration</li>
-                <li>Communicate effectively with team lead, project management and stakeholders within the project</li>
+                <li>Communicate effectively with the team lead, project management and stakeholders within the project</li>
               </ul>
             </div>
 
@@ -32,18 +32,18 @@ const Resume = () => {
                 <li>Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements</li>
                 <li>Develop and migrate ColdFusion system to .NET single page web application and reduced the number of  bugs reported in the existing application</li>
                 <li>Maintain and recommend software improvements to clients to ensure robust functionality and decrease the loading and retrieving of data</li>
-                <li>Mentored other junior developers on the technically of the system</li>
+                <li>Mentored other junior developers on the technicality of the system</li>
               </ul>
             </div>
 
             <div className="resume-item">
               <h4>Associate Technical Specialist</h4>
-              <h5>2018-2021</h5>
-              <p><em>Alliance Sofware Inc., Cebu, Philippines</em></p>
+              <h5>2016-2018</h5>
+              <p><em>Alliance Software Inc., Cebu, Philippines</em></p>
               <ul>
-                <li>Responsible for planning, designing, development, testing and deployment and support various web application</li>
-                <li>Migrated old system to single page application on .NET framework and develop front-end using Angular </li>
-                <li>Reviewed query performance and optimize code that helps resolve critical issues reported by the client</li>
+                <li>Responsible for planning, designing, developing, testing and deployment and supporting various web application</li>
+                <li>Migrated old system to single page application on .NET framework and developed front-end using Angular </li>
+                <li>Reviewed query performance and optimized code that helped resolve critical issues reported by the client</li>
                 <li>Created high-level and low-level design documents</li>
               </ul>
             </div>
